@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+/* font-family: 'Shadows Into Light', cursive; */
+
+html {
+    font-family: 'Shadows Into Light', cursive;
+}
+
+p{
+    color: blueviolet;
+    color: black;
+}
+.titulo-rosa{
+    color: pink;
+}
+
+header{
+    background-color: black;
+}
+
+header img{
+    width: 300px;
+    
+}
+
+
+header ul{
+    list-style: none;
+}
+
+/* main de index */
+
+/* banner */
+banner {
+    background-image: url(../imagenes/banner.png);
+}
+
+nav{
+    background-color: palevioletred;
+}
+
+header a{
+    color: white;
+}
+
+h1{
+    text-decoration: underline;
+    font-family: 'Shadows Into Light', cursive;
+    text-align: center;
+    
+}
